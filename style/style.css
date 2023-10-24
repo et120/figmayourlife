@@ -1,0 +1,19 @@
+* {
+    color: #ffffff;
+    font-family: 'Itim', cursive;
+    font-size: 28px;
+}
+.images {
+    height: 50vh;
+    border-radius: 10px;
+}
+.center {
+    display: flex;
+    justify-content: center;
+}
+p {
+    font-size: 23px;
+}
+a {
+    color: 3DEFEF;
+}
