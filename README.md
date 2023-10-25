@@ -16,6 +16,6 @@ Multipage style figma with:
 - Figma and GH Repo links in comments
 
 # Peer Review
-Name:
+Name: Bronel Lazar
 
-Comment(s): 
+Comment(s): The code looks clean and organized, and the website looks great with proper functionalities in the buttons.
