@@ -5,7 +5,7 @@ Date Revised: 10.25.2023
 
 Exercise: Figma Your Life
 
-Brief Description: Created a prototype of a website about your fictional life and added functionality
+Brief Description: Created a prototype of a website about a fictional life and added functionality
 
 Multipage style figma with:
 - minimum 3 pages 
